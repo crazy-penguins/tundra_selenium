@@ -18,4 +18,4 @@ networks:
   tundra:
     ipam:
       config:
-        - subnet: '192.168.53.72/28'
+        - subnet: '192.168.53.96/28'
